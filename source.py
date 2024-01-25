@@ -1,4 +1,4 @@
-wieght=int(input("Enter your weight in pounds: "))
+weight=int(input("Enter your weight in pounds: "))
 height=int(input("Enter your height in inches: "))
 bmi_calculated_value=(weight*703)/(height*height)
 if bmi_calculated_value>0:
